@@ -1,3 +1,4 @@
 # 💻 Wordle
 A working command-line-interface Wordle clone done in python including a decently laid out display.
-![image](https://user-images.githubusercontent.com/92184180/201766383-1ffd0b0a-20ba-4294-ab6a-94c6824e819d.png)
+![fsef324](https://user-images.githubusercontent.com/92184180/201766601-85950fd3-22ef-42f0-8772-98f4397d2576.png)
+
