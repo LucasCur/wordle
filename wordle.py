@@ -25,7 +25,8 @@ print(t)
 def calcdisp(y, z, b):
   x = format
   if y == z:
-    x = x.replace("#","✔",b)
+    x = x.replace("#","✘",b-1)
+    x = x.replace("#","✔",1)
   else:
     x = x.replace("#","✘",b)
   
