@@ -42,7 +42,7 @@ def calcdisp(y, z, b):
     x = x.replace("?",y[a],1)
   print(x)
 
-ar = json.load(open("data.json", 'r'))
+ar = json.load(open("words.json", 'r'))
 target = r.choice(ar)
 #print(target) 
 #the above is just used for testing so that you can see the random word chosen
