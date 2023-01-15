@@ -1,7 +1,6 @@
 ## 💻 Wordle
-- A working command-line-interface Wordle clone created once in python and a second time in golang. Uses a basic CLI user interface.
-
-- The golang version of this project was created on my second day of learning golang, so there's probably a lot I could do more efficiently, etc.
+- A working command-line-interface Wordle clone created in python . Uses a basic CLI user interface.
+- An alternate version created in golang is available on my github.
 
 ## User Interface
 
